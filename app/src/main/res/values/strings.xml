@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interview Simulator</string>
+    <string name="login_title">Iniciar sesión</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Registrarse</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="login_with">O iniciar sesión con</string>
+    <string name="email_required">El correo electrónico es requerido</string>
+    <string name="email_invalid">Ingrese un correo electrónico válido</string>
+    <string name="password_required">La contraseña es requerida</string>
+    <string name="password_length">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="login_progress">Iniciando sesión...</string>
+</resources>
